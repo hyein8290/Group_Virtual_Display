@@ -1,4 +1,4 @@
-# QR코드를 이용한 단체 가상 전광판
+# 📱 QR코드를 이용한 단체 가상 전광판
 
 ![project06](https://user-images.githubusercontent.com/90780701/154797422-8b17301a-eaba-4943-a770-aa650c3dad8b.png)
 
@@ -45,7 +45,7 @@
 
 <br />
 
-## 📝 Main Function
+![0001](https://user-images.githubusercontent.com/90780701/154798752-f68e0fae-c2cd-4e11-a110-48713e2b8aa4.jpg)
 
 <br />
 
