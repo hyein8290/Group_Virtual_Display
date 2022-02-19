@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <th>개발도구</th>
-        <th colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;Android Studio / Node.js / Express.js / Visual Studio Code / AWS / MySql WorkBench &nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;Android Studio / Node.js / Visual Studio Code / AWS / MySql WorkBench &nbsp;&nbsp;&nbsp;&nbsp;</th>
     </tr>
 </table>
 
